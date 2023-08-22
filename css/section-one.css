@@ -1,0 +1,43 @@
+.section-one {
+
+}
+
+.section-one__top {
+  margin-bottom: 30px;
+
+}
+
+.image1 {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 0;
+
+}
+
+.section-one__list {
+  max-width: 480px;
+}
+
+.section-one__list:last-of-type {
+  float: left;
+  margin-right: 30px;
+}
+
+
+.section-one__item {
+  margin-bottom: 30px;
+}
+
+.section-one__item:last-child {
+  margin-bottom: 0;
+}
+
+.section-one__bottom {
+
+}
+
+.image2 {
+  margin-bottom: 0;
+
+}
+
