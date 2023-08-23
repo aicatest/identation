@@ -16,7 +16,7 @@
   margin-bottom: 0;
 }
 
-.section-two .section-text:last-of-type {
+.section-two .section-text:last-child {
   margin: 0;
 }
 
