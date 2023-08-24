@@ -17,7 +17,7 @@
   margin-bottom: 30px;
 }
 
-.section--title {
+.section-title {
   font-size: 36px;
 }
 
@@ -25,13 +25,8 @@
   margin-bottom: 30px;
 }
 
-.section-figure {
-}
-
-.section-figcaption {
-}
-
 .image {
+  display: inline-block;
   margin-bottom: 30px;
 }
 

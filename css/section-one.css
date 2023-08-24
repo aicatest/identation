@@ -8,18 +8,21 @@
 }
 
 .image1 {
-  float: left;
   margin-right: 30px;
   margin-bottom: 0;
 
 }
 
 .section-one__list {
+  display: inline-block;
   max-width: 480px;
 }
 
-.section-one__list:last-of-type {
-  float: left;
+.section-one__list_one {
+  margin-right: 0;
+}
+
+.section-one__list_two {
   margin-right: 30px;
 }
 

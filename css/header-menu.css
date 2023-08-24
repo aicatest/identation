@@ -1,17 +1,11 @@
-.menu {
-}
-
 .header-menu {
   margin-bottom: 25px;
 }
 
-.menu__title {
+.menu-title {
   font-size: 44px;
   font-weight: 700;
   margin-bottom: 20px;
-}
-
-.menu__list {
 }
 
 .menu__item {

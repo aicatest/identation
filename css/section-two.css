@@ -20,27 +20,19 @@
   margin: 0;
 }
 
-
-
-.image3 {
-
+.section-two .section-figure:last-of-type {
+  margin-bottom: 30px;
 }
 
-.image4 {
-}
+
 
 .image5 {
   width: 100%;
   margin-bottom: 0;
 }
 
-
-.image6 {
-
-
-}
-
 .image7 {
+  margin-bottom: 0;
 
 }
 

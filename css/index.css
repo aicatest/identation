@@ -2,9 +2,10 @@
 @import url(./fonts.css);
 @import url(./global.css);
 @import url(./style.css);
-@import url(./main-section.css);
+@import url(./article.css);
 @import url(./header-menu.css);
 @import url(./section-one.css);
 @import url(./section-two.css);
 @import url(./section-three.css);
+@import url(./section-four.css);
 @import url(./footer.css);
