@@ -27,7 +27,6 @@
 }
 
 .menu__link {
-  text-decoration: underline;
   margin-bottom: 10px;
+  text-decoration: underline;
 }
-

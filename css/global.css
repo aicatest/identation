@@ -89,11 +89,13 @@ iframe {
 */
 
 .container {
-  max-width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .article {
-  padding: 60px 150px 50px 150px;
+  max-width: 1170px;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  margin: 0 auto;
 }

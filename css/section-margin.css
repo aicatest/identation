@@ -1,46 +1,36 @@
-.section-one {
-
-}
-
-.section-one__top {
+.section-margin__top {
   margin-bottom: 30px;
-
 }
 
 .image1 {
   margin-right: 30px;
   margin-bottom: 0;
-
 }
 
-.section-one__list {
+.section-margin__list {
   display: inline-block;
   max-width: 480px;
 }
 
-.section-one__list_one {
+.section-margin__list_one {
   margin-right: 0;
 }
 
-.section-one__list_two {
+.section-margin__list_two {
   margin-right: 30px;
 }
 
-
-.section-one__item {
+.section-margin__item {
   margin-bottom: 30px;
 }
 
-.section-one__item:last-child {
+.section-margin__item:last-child {
   margin-bottom: 0;
 }
 
-.section-one__bottom {
-
+.section-margin__bottom {
 }
 
 .image2 {
   margin-bottom: 0;
-
 }
-
